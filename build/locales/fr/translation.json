@@ -23,11 +23,7 @@
     "logout": "Se déconnecter",
     "changeSortOrder": "Changer l'ordre du tri",
     "addPokemon": "Créer un pokémon",
-<<<<<<< HEAD
     "technicalError": "problème technique, veuillez réessayer plus tard"
-=======
-    "technicalError": "erreur technique, veuillez réessayer plus tard."
->>>>>>> 898f8c165f370dd907e94916e92dc16bf7af40aa
   },
   "type": {
     "1": "Eau",

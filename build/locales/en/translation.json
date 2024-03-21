@@ -23,11 +23,7 @@
     "logout": "Sign out",
     "changeSortOrder": "Change sort order",
     "addPokemon": "Create a pokemon",
-<<<<<<< HEAD
     "technicalError": "technical issue, please try later"
-=======
-    "technicalError": "technical error, please try again later."
->>>>>>> 898f8c165f370dd907e94916e92dc16bf7af40aa
   },
   "type": {
     "1": "Water",
